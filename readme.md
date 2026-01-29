@@ -1,3 +1,3 @@
-# Bienvenido a mi GitHub
+# Modificación de programa Principal.java
 ## Autor: Daniel García Rodríguez
-En este repositorio pordrás encontrar una gran variedad de documentación, programas y proyectos relacionados con programación, base de datos, sistemas informáticos...
+He añadido un método al programa Principal.java para que al ejecutarlo devuelva la hora de ejecución del programa.
